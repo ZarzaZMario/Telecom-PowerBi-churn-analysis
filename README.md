@@ -3,7 +3,7 @@
 ## Business question
 Megaline, a telecom company, offers two plans: **Basico** (12 USD/month) and **Premium** (25 USD/month). Does the Premium plan bring more usage or more loyalty than Basico?
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Data
 - `users_latam`: 4,000 clients with plan, city, age, registration and churn dates
